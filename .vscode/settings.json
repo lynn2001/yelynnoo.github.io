@@ -1,0 +1,5 @@
+{
+    "diffEditor.wordWrap": "inherit",
+    "editor.wordWrap": "off",
+    "liveServer.settings.port": 5501
+}
